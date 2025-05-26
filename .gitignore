@@ -1,0 +1,6 @@
+# ignore binary
+siphash-mapper
+
+# ignore local config file
+config.toml
+
